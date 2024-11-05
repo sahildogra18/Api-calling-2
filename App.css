@@ -1,0 +1,12 @@
+body{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.hi{
+  border: 2px solid black;
+  background-color: rgb(253, 142, 142);
+  padding: 20px;
+  font-size: 40px;
+  border-radius: 10px;
+}
